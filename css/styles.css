@@ -3835,7 +3835,7 @@ textarea.form-control-lg {
   color: var(--bs-navbar-brand-color);
   text-decoration: none;
   white-space: nowrap;
-  margin-left: 20px; /* Adiciona 20 pixels de margem à esquerda */
+  margin-left: 50px; /* Adiciona 20 pixels de margem à esquerda */
   margin-right: 20px; /* Adiciona 20 pixels de margem à direita */
 }
 .navbar-brand:hover, .navbar-brand:focus {
