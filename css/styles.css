@@ -4012,11 +4012,11 @@ textarea.form-control-lg {
     overflow-y: visible;
   }
 }
-@media (min-width: 992px) {
+@media (min-width: auto) {
   .navbar-expand-lg {
     flex-wrap: nowrap;
     justify-content: flex-start;
-    margin-left: 0px; /* Empurra a navbar um pouco para a direita */
+    margin-right: 200px; /* Empurra a navbar um pouco para a direita */
   }
   .navbar-expand-lg .navbar-nav {
     flex-direction: row;
