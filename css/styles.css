@@ -3667,8 +3667,8 @@ textarea.form-control-lg {
 }
 
 .nav {
-  --bs-nav-link-padding-x: 0.5rem;
-  --bs-nav-link-padding-y: 1rem;
+  --bs-nav-link-padding-x: 1rem;
+  --bs-nav-link-padding-y: 0.5rem;
   --bs-nav-link-font-weight: ;
   --bs-nav-link-color: var(--bs-link-color);
   --bs-nav-link-hover-color: var(--bs-link-hover-color);
@@ -3788,7 +3788,7 @@ textarea.form-control-lg {
 }
 
 .navbar {
-  --bs-navbar-padding-x: 1rem;
+  --bs-navbar-padding-x: 0;
   --bs-navbar-padding-y: 0.5rem;
   --bs-navbar-color: rgba(0, 0, 0, 0.55);
   --bs-navbar-hover-color: rgba(0, 0, 0, 0.7);
@@ -4016,6 +4016,7 @@ textarea.form-control-lg {
   .navbar-expand-lg {
     flex-wrap: nowrap;
     justify-content: flex-start;
+    margin-left: 125px; /* Empurra a navbar um pouco para a direita */
   }
   .navbar-expand-lg .navbar-nav {
     flex-direction: row;
