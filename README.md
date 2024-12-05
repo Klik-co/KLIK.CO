@@ -1,2 +1,1 @@
-# klikdiaz
-WIP
+# klik.co
