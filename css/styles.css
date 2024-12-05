@@ -3667,8 +3667,8 @@ textarea.form-control-lg {
 }
 
 .nav {
-  --bs-nav-link-padding-x: 0rem;
-  --bs-nav-link-padding-y: 0rem;
+  --bs-nav-link-padding-x: 0.5rem;
+  --bs-nav-link-padding-y: 1rem;
   --bs-nav-link-font-weight: ;
   --bs-nav-link-color: var(--bs-link-color);
   --bs-nav-link-hover-color: var(--bs-link-hover-color);
