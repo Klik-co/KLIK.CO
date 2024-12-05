@@ -4016,7 +4016,7 @@ textarea.form-control-lg {
   .navbar-expand-lg {
     flex-wrap: nowrap;
     justify-content: flex-start;
-    margin-left: 125px; /* Empurra a navbar um pouco para a direita */
+    margin-left: 0px; /* Empurra a navbar um pouco para a direita */
   }
   .navbar-expand-lg .navbar-nav {
     flex-direction: row;
