@@ -632,7 +632,7 @@ progress {
   padding-right: calc(var(--bs-gutter-x) * 0.5);
   padding-left: calc(var(--bs-gutter-x) * 0.5);
   margin-right: auto;
-  margin-left: auto;
+  margin-left: 1rem;
 }
 
 @media (min-width: 576px) {
