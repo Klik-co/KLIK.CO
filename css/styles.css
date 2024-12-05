@@ -3830,11 +3830,13 @@ textarea.form-control-lg {
 .navbar-brand {
   padding-top: var(--bs-navbar-brand-padding-y);
   padding-bottom: var(--bs-navbar-brand-padding-y);
-  margin-right: var(--bs-navbar-brand-margin-end);
+  /*margin-right: var(--bs-navbar-brand-margin-end);*/
   font-size: var(--bs-navbar-brand-font-size);
   color: var(--bs-navbar-brand-color);
   text-decoration: none;
   white-space: nowrap;
+  margin-left: 20px; /* Adiciona 20 pixels de margem à esquerda */
+  margin-right: 20px; /* Adiciona 20 pixels de margem à direita */
 }
 .navbar-brand:hover, .navbar-brand:focus {
   color: var(--bs-navbar-brand-hover-color);
