@@ -11226,7 +11226,7 @@ body {
       transition:200ms;
   }
   input:focus{
-    border: 5px solid #1278f7;
+    border: 5px solid #fff;
     transition:200ms;
 }
   button{
