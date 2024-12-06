@@ -11259,7 +11259,7 @@ body {
 
 .icon{
   cursor: pointer;
-  color: #1278f7;
+  color: #fff;
   transition: 200ms;
   i{
       font-size: 50px;
@@ -11270,7 +11270,7 @@ body {
   }
 }
 .icon:hover{
-  color: #1278f7;
+  color: #fff;
   i{
       font-size: 70px;
   }
