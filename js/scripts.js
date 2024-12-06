@@ -85,7 +85,7 @@ function enviarEmail() {
 function sendWhatsAppMessage() {
     // Número de telefone no formato internacional sem o "+" (código do país + código da cidade + número)
     var phoneNumber = '5511958774472'; // Exemplo: +55 11 99999-9999
-    var message = 'Olá, vim do site e gostaria de mais informações!';
+    var message = 'Olá, vim do site e quero saber mais sobre as fotos!';
 
     // Codifica a mensagem para ser compatível com URL
     var encodedMessage = encodeURIComponent(message);
