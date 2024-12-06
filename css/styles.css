@@ -11231,16 +11231,16 @@ body {
       outline:none;
       border-radius: 10px;
       text-align:center;
-      border: 2px solid #000;
+      border: 3px solid #000;
       transition:200ms;
   }
   input:focus{
-    border: 2px solid #1278f7;
+    border: 5px solid #1278f7;
     transition:200ms;
 }
   button{
       background-color: #000;
-      color: white;
+      color: Black;
       border:none;
       border-radius: 10px;
       width:100px;
